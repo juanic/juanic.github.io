@@ -6,7 +6,7 @@ categories:
 tags:
   - doctorado
   - investigacion
-  - 2025
+  - "2025"
 layout: single
 ---
 
