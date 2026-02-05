@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-ES"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Laboratorio de Prototipado Electrónico y 3D"
 title_separator          : "-"
@@ -325,4 +325,6 @@ defaults:
       read_time: true
       comments: # true
       share: true
+      share: true
       related: true
+      toc_label: "En esta página"
