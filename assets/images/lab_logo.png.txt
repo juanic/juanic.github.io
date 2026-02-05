@@ -1,0 +1,3 @@
+Esta imagen es un marcador de posición.
+Por favor, reemplace este archivo con el logo del laboratorio.
+Debe llamarse 'lab_logo.png' y estar en esta carpeta.
