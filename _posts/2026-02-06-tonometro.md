@@ -29,11 +29,11 @@ Este sistema no resulto muy efectivo, al menos en nuestra implementacion, con di
 
 Decidimos rediseñar el sistema desde cero, modificando el transductor, buscando algo más facil de utilizar. Durante la investigacion bibliografioa que emprendemos cuando llevamos adelante un proyecto, una de las fuentes de busqueda son patentes. Una que nos resulto particularmnente interesante es la patente US20050177047A1 "Device for, and a method of, transcutaneous pressure waveform sensing of an artery and a related target apparatus".
 
-![US20050177047A1-20050811-D00000](/assets/images/tonometro/US20050177047A1-20050811-D00000.png)
+![US20050177047A1-20050811-D00000][center](/assets/images/tonometro/US20050177047A1-20050811-D00000.png)
 
 En la imagen del dispositvio se podia observar el sensor de presion, una suerte de cono de gel que transmitia la presion arterial desde la superficie exterior al sensor. Ya estabamos en la busqueda de sensores de presion invasiva para evaluar su reutilizacion, y de la imagen nos parecio reconocer el encapsulado del sensor utilizado, si bien no estamos 100% seguros se parece mucho al MPX2300DT1 de NXP (https://www.nxp.com/docs/en/data-sheet/MPX2300D.pdf)
 
-![MPX2300DT1](/assets/images/tonometro/MPX2300DT1.png)
+![MPX2300DT1][center](/assets/images/tonometro/MPX2300DT1.png)
 
 
 
@@ -42,10 +42,10 @@ En la imagen del dispositvio se podia observar el sensor de presion, una suerte 
 Comenzamos el modelado CAD del dispositivo, buscando replicar la geometria de la patente. Para el cono de gel decidimos utilizar silicon, fabricando un molde en PLA. 
 Pasamos por varias iteraciones para optimizar la geometria del cono de gel, buscando la menor superficie de contacto posible.
 
-![prototipos](/assets/images/tonometro/prototipos.jpg)  
+![prototipos][center](/assets/images/tonometro/prototipos.jpg)  
 
 ## Pruebas
 
-
+![video_test][center](/assets/images/tonometro/video_test.mp4)  
 
 ## Conclusión
